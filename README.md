@@ -13,9 +13,10 @@ Contact me:
 ## 📈 Github Stats
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Backheart-js&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user= Backheart-js&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Backheart-js&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Backheart-js&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username= Backheart-js&theme=tokyonight&layout=compact&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Backheart-js&theme=tokyonight&layout=compact&langs_count=6">
+
 
 
 
