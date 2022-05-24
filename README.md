@@ -2,13 +2,13 @@
 #### I am a front end developer
 My hobby are programming and guitar, I write code for fun after stressful guitar lessons. Hehe 😄
 
-Skills:  JS / HTML / CSS
+Skills:  JS / HTML / CSS / ReactJS
 
 - 🔭 I’m currently working on this page. 
 
 Contact me: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/binhnguyen29122001) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/binh_nguyen2912/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' margin-top='20'>](https://www.facebook.com/binhnguyen29122001) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' margin-top='20'>](https://www.instagram.com/binh_nguyen2912/)  
 
 ## 📈 Github Stats
 
